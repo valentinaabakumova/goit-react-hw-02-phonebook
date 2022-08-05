@@ -1,0 +1,20 @@
+@import-normalize; /* bring in normalize.css styles */
+
+body {
+  margin: 0;
+  /* font-family: 'Square Peg', cursive; */
+  font-family: 'Segoe UI';
+}
+
+h2,
+p {
+  margin: 0;
+}
+
+ul {
+  padding: 0;
+}
+li {
+  margin: 0;
+  list-style: none;
+}
